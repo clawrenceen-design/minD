@@ -1,2 +1,0 @@
-# minD
-User Agreement
