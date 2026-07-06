@@ -1,5 +1,5 @@
 # minD
-User Agreement
+Beta User Agreement
 
 The Beta App is pre-release software provided for testing and evaluation only. It may contain errors, incomplete features, or cause unexpected behavior, including loss of data. The Beta App is not the final commercial release and may differ from the App Store version.
 
